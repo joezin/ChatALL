@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="src/assets/logo-cover.png" width=256></img>
+   <img src="src/assets/logo-cover.png" width="256" />
    <p><strong>同时与所有 AI 机器人聊天，找到最佳答案</strong></p>
 
 [Deutsch](README_DE-DE.md) | [English](README.md) | [Español](README_ES-ES.md) | [Français](README_FR-FR.md) | [Italian](README_IT-IT.md) | [日本語](README_JA-JP.md) | [한국어](README_KO-KR.md) | [Русский](README_RU-RU.md) | [Tiếng Việt](README_VI-VN.md) | 简体中文
@@ -97,7 +97,7 @@ ChatALL 是一个客户端，而不是代理。因此，您必须：
 
 ## 下载 / 安装
 
-从 https://github.com/sunner/ChatALL/releases 下载
+从 <https://github.com/sunner/ChatALL/releases> 下载
 
 ### Windows 系统
 
